@@ -1,4 +1,4 @@
-const companies = [
+/*const companies = [
   { name: "Company Two", category: "Technology", start: 1981, end: 1997 },
   { name: "Company One", category: "Finance", start: 2000, end: 2003 },
   { name: "Company Three", category: "Auto", start: 1981, end: 2002 },
@@ -18,4 +18,9 @@ const ages = [34, 89, 02, 35, 90, 64, 35, 32, 64, 84, 21, 12, 05, 04, 08];
 //map
 //sort
 //reduce
-//some
+//some*/
+
+function testJS() {
+  alert("hopefully this works");
+}
+testJS();
